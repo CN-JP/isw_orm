@@ -1,0 +1,129 @@
+head, body {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .logo {
+    width: 140px;
+    height: 70px;
+    margin-right: 8px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    line-height: 2;
+  }
+  
+  p {
+    font-family: "Montserrat";
+    line-height: 1.5;
+  }
+  
+  nav {
+    background-color: #004360;
+    padding: 2.5% 5%;
+  }
+  
+  .navbar-custom .navbar-text { 
+      color: red; 
+  }
+  
+  .navbar-custom .navbar-nav .navbar-item .nav-link {
+    color: red;   
+  }
+
+  .nav-item {  
+  }
+  
+  .container {
+    padding: 7% 5%;
+  }
+  
+  .container-fluid {
+    padding: 5% 7%;
+  }
+  
+  .title-1 {
+    font-size: 4rem;
+    color: #FCD900;
+  }
+  
+  .auto-type {
+    color: #FCD900;
+  }
+
+  
+.tools {
+    background-color: ;
+    text-align: center;
+  }
+
+  .explore-button {
+    background-color: #004360;
+    border: none;
+    border-radius: 30px;
+    color:red;
+    font-weight: 400;
+    padding: 15px 30px;
+    margin: 7% 0;
+    width: 150px;
+    transition: width 0.5s;
+  }
+  
+  a .explore-button:link {
+    color: red;
+  }
+  
+  a .explore-button:hover {
+    color: #004360;
+  }
+  
+  .explore-button:hover {
+    background: red;
+    color: #004360;
+    width: 180px;
+    font-weight: bold;
+  }
+
+
+
+
+
+
+
+
+
+
+  footer {
+    background-color: #F5F5F5;
+    font-family: "Montserrat";
+  }
+  
+  .footer-1 {
+    line-height: 2.5;
+    margin-bottom: 1.5%;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .footer-1 a {
+    color: #000;
+  }
+      
+    
+  .social-icon {
+    margin: 20px 10px;
+    color: #004360;
+  }
+  
+  .cnjp {
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  a:link, .cnjp a {
+    text-decoration: none;
+  }
+  
+
+
+
+
